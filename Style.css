@@ -50,6 +50,10 @@ nav ul li a.active{
     display: flex;
     flex-direction: colum;
     gap: 10px;
+    max-width: 400px;
+    margin:auto;
+
+}
 
 footer {
 
@@ -67,3 +71,4 @@ main {
 
 
 }
+
